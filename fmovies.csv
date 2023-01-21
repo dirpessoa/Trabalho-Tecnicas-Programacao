@@ -1,0 +1,134 @@
+,Rank,Film,Year,Count,"Running time
+(minutes)",title_processed,movieId,title,genres,Mean,Count_ratings
+0,1.0,Swearnet: The Movie,2014,935,112,swearnetthemovie,132132,Swearnet: The Movie (2014),Comedy,3.1,15
+1,5.0,Summer of Sam,1999,435,142,summerofsam,2702,Summer of Sam (1999),Drama,3.079622132253711,2964
+2,6.0,Nil by Mouth,1997,428,128,nilbymouth,1846,Nil By Mouth (1997),Drama,3.5187074829931975,294
+3,7.0,Casino,1995,422,178,casino,16,Casino (1995),Crime|Drama,3.8237068028689416,18404
+4,8.0,Alpha Dog,2006,420,118,alphadog,50442,Alpha Dog (2007),Crime|Drama,3.2717277486910996,955
+5,9.0,Straight Outta Compton,2015,392,167,straightouttacompton,140715,Straight Outta Compton (2015),Drama,3.6943661971830988,1420
+6,11.0,Starred Up,2013,337,106,starredup,110110,Starred Up (2013),Drama,3.6635802469135803,324
+7,12.0,End of Watch,2012,326,109,endofwatch,96811,End of Watch (2012),Crime|Drama|Thriller,3.812532637075718,1915
+8,15.0,Twin Town,1997,318,99,twintown,1539,Twin Town (1997),Comedy|Crime,3.104014598540146,274
+9,18.0,Martin Lawrence Live: Runteldat,2002,311,113,martinlawrenceliverunteldat,5513,Martin Lawrence Live: Runteldat (2002),Comedy|Documentary,2.345528455284553,123
+10,19.0,Menace II Society,1993,300,97,menaceiisociety,493,Menace II Society (1993),Action|Crime|Drama,3.6256521739130436,3450
+11,20.0,Goodfellas,1990,300,146,goodfellas,1213,Goodfellas (1990),Crime|Drama,4.1805253650920005,32663
+12,21.0,Narc,2002,297,105,narc,5959,Narc (2002),Crime|Drama|Thriller,3.497588908981314,1659
+13,22.0,Harsh Times,2006,296,116,harshtimes,49314,Harsh Times (2006),Action|Crime|Drama,3.2468030690537084,391
+14,23.0,Another Day in Paradise,1998,291,101,anotherdayinparadise,2440,Another Day in Paradise (1998),Drama,3.196165191740413,339
+15,24.0,Made,2001,291,94,made,4452,Made (2001),Comedy,3.2361530715005036,993
+16,25.0,Pride and Glory,2008,291,130,prideandglory,62792,Pride and Glory (2008),Crime|Drama,3.224310776942356,399
+17,27.0,Goat,2016,289,96,goat,160646,Goat (2016),Drama,2.945945945945946,37
+18,28.0,Wheelman,2017,286,82,wheelman,179415,Wheelman (2017),Action|Thriller,3.108695652173913,69
+19,32.0,Jarhead,2005,278,123,jarhead,40278,Jarhead (2005),Action|Drama|War,3.4497827753641706,3913
+20,36.0,Brooklyn's Finest,2010,270,132,brooklynsfinest,74944,Brooklyn's Finest (2010),Crime|Drama|Thriller,3.0919354838709676,310
+21,37.0,Reservoir Dogs,1992,269,99,reservoirdogs,1089,Reservoir Dogs (1992),Crime|Mystery|Thriller,4.092293699832535,34634
+22,38.0,Pulp Fiction,1994,265,154,pulpfiction,296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,4.188912039361382,79672
+23,39.0,I'm Still Here,2010,250,106,imstillhere,80572,I'm Still Here (2010),Comedy|Drama,2.8488372093023258,172
+24,40.0,Jay and Silent Bob Strike Back,2001,248,104,jayandsilentbobstrikeback,4734,Jay and Silent Bob Strike Back (2001),Adventure|Comedy,3.2800708350360988,7341
+25,41.0,Do the Right Thing,1989,240,120,dotherightthing,3424,Do the Right Thing (1989),Drama,3.85711917785513,6033
+26,42.0,Free Fire,2016,240,90,freefire,169992,Free Fire (2017),Action|Crime|Drama,3.088477366255144,243
+27,46.0,Black Mass,2015,234,123,blackmass,136018,Black Mass (2015),Crime|Drama,3.3375,1000
+28,47.0,True Romance,1993,234,118,trueromance,555,True Romance (1993),Crime|Thriller,3.810891994253624,15314
+29,48.0,Resolution,2012,231,93,resolution,102066,Resolution (2012),Horror|Thriller,3.3035714285714284,168
+30,49.0,Goon,2012,231,92,goon,93443,Goon (2011),Comedy|Drama,3.3276740237691,589
+31,50.0,Infamous,2020,230,100,infamous,48598,Infamous (2006),Drama,3.51980198019802,202
+32,51.0,My Name Is Joe,1998,230,105,mynameisjoe,2481,My Name Is Joe (1998),Drama|Romance,3.6297169811320753,424
+33,52.0,State of Grace,1990,230,134,stateofgrace,26704,State of Grace (1990),Crime|Drama|Thriller,3.5093167701863353,322
+34,53.0,Gridlock'd,1997,227,91,gridlockd,1447,Gridlock'd (1997),Crime,3.2866894197952217,586
+35,55.0,Eddie Murphy Raw,1987,223,90,eddiemurphyraw,4102,Eddie Murphy Raw (1987),Comedy|Documentary,3.659613615455382,2174
+36,56.0,Suicide Kings,1997,222,106,suicidekings,1799,Suicide Kings (1997),Comedy|Crime|Drama|Mystery|Thriller,3.522929340196537,2137
+37,57.0,Looking for Eric,2009,220,116,lookingforeric,73101,Looking for Eric (2009),Comedy|Drama|Fantasy,3.5137362637362637,182
+38,58.0,Zack and Miri Make a Porno,2008,219,102,zackandmirimakeaporno,62434,Zack and Miri Make a Porno (2008),Comedy|Drama|Romance,3.218143203883495,3296
+39,59.0,30 Minutes or Less,2011,218,83,minutesorless,88812,30 Minutes or Less (2011),Action|Comedy|Crime,3.0520702634880803,797
+40,62.0,American History X,1998,214,119,americanhistoryx,2329,American History X (1998),Crime|Drama,4.1400006419103255,31157
+41,65.0,All Eyez on Me,2017,210,140,alleyezonme,164546,All Eyez on Me (2016),Drama,2.8461538461538463,39
+42,66.0,Layer Cake,2004,210,105,layercake,27831,Layer Cake (2004),Crime|Drama|Thriller,3.749494183105716,3954
+43,67.0,Monument Ave.,1998,210,93,monumentave,2281,Monument Ave. (1998),Action|Crime|Drama,3.1479591836734695,98
+44,69.0,Spun,2002,203,101,spun,6223,Spun (2001),Comedy|Crime|Drama,3.3759493670886074,790
+45,73.0,Dysfunktional Family,2003,200,89,dysfunktionalfamily,6284,DysFunktional Family (2003),Comedy|Documentary,2.3205128205128207,39
+46,74.0,Foolish,1999,200,97,foolish,2584,Foolish (1999),Comedy,2.0714285714285716,21
+47,76.0,This Is the End,2013,200,107,thisistheend,102123,This Is the End (2013),Action|Comedy,3.272262026612078,2931
+48,77.0,I Got the Hook-Up,1998,197,93,igotthehookup,1886,I Got the Hook Up (1998),Comedy,2.066666666666667,75
+49,78.0,Born on the Fourth of July,1989,196,145,bornonthefourthofjuly,4008,Born on the Fourth of July (1989),Drama|War,3.440225756798358,3898
+50,81.0,Killing Them Softly,2012,193,97,killingthemsoftly,97860,Killing Them Softly (2012),Crime|Drama|Thriller,3.22640218878249,731
+51,82.0,Next Day Air,2009,193,84,nextdayair,71533,Next Day Air (2009),Action|Comedy|Crime,2.9423076923076925,52
+52,84.0,Magnolia,1999,190,188,magnolia,3160,Magnolia (1999),Drama,3.869057874539901,12769
+53,87.0,Belly,1998,186,92,belly,2332,Belly (1998),Crime|Drama,2.986111111111111,180
+54,88.0,Hustle & Flow,2005,186,116,hustleflow,34271,Hustle & Flow (2005),Crime|Drama,3.5719139297848246,883
+55,89.0,Clockers,1995,185,128,clockers,159,Clockers (1995),Crime|Drama|Mystery,3.4178361249434133,2209
+56,90.0,Get Rich or Die Tryin',2005,185,117,getrichordietryin,40574,Get Rich or Die Tryin' (2005),Action|Crime|Drama,2.839572192513369,187
+57,93.0,Bodied,2017,179,121,bodied,177807,Bodied (2017),Comedy|Drama,3.5416666666666665,24
+58,98.0,Pineapple Express,2008,175,112,pineappleexpress,61024,Pineapple Express (2008),Action|Comedy|Crime,3.453398738612474,5708
+59,99.0,Trainspotting,1996,175,95,trainspotting,778,Trainspotting (1996),Comedy|Crime|Drama,4.007664971082154,28702
+60,100.0,Poetic Justice,1993,175,109,poeticjustice,510,Poetic Justice (1993),Drama,2.778588807785888,822
+61,102.0,Human Traffic,1999,174,99,humantraffic,3581,Human Traffic (1999),Comedy,3.673572228443449,893
+62,104.0,Tigerland,2000,173,101,tigerland,3950,Tigerland (2000),Drama,3.5249807840122984,1301
+63,105.0,Donnie Brasco,1997,172,127,donniebrasco,1466,Donnie Brasco (1997),Crime|Drama,3.810181036027962,11158
+64,107.0,Mid90s,2018,171,85,mids,193449,Mid90s (2018),Comedy|Drama,3.6693227091633465,251
+65,109.0,Dolemite Is My Name,2019,169,118,dolemiteismyname,204878,Dolemite Is My Name (2019),Comedy|Drama,3.2325581395348837,43
+66,110.0,Grindhouse,2007,169,191,grindhouse,52281,Grindhouse (2007),Action|Crime|Horror|Sci-Fi|Thriller,3.6770285499624342,5324
+67,113.0,Four Rooms,1995,168,98,fourrooms,18,Four Rooms (1995),Comedy,3.3843505768515074,5374
+68,114.0,Death of a Dynasty,2003,167,92,deathofadynasty,33160,Death of a Dynasty (2003),Comedy,1.125,4
+69,115.0,Studio 666,2022,165,106,studio,189853,Studio 54 (2018),Documentary,3.75,14
+70,116.0,Babylon,2022,165,188,babylon,86657,Babylon (1981),Drama,3.75,6
+71,117.0,District 9,2009,165,112,district,70286,District 9 (2009),Mystery|Sci-Fi|Thriller,3.806483027267668,17970
+72,118.0,Gang Related,1997,165,110,gangrelated,1662,Gang Related (1997),Crime,2.8944723618090453,199
+73,120.0,Boogie Nights,1997,164,155,boogienights,1673,Boogie Nights (1997),Drama,3.7044712201495247,13777
+74,121.0,Crank: High Voltage,2009,164,96,crankhighvoltage,68205,Crank: High Voltage (2009),Action|Comedy|Crime,3.087748344370861,1812
+75,125.0,Everybody Wants Some!!,2016,161,116,everybodywantssome,156371,Everybody Wants Some (2016),Comedy,3.5218818380743984,457
+76,127.0,Lone Survivor,2013,161,121,lonesurvivor,107069,Lone Survivor (2013),Action|Drama|Thriller|War,3.7015072083879423,1526
+77,128.0,Dirty Grandpa,2016,160,102,dirtygrandpa,151739,Dirty Grandpa (2016),Comedy,3.0514440433212995,554
+78,129.0,Good Time,2017,160,101,goodtime,174727,Good Time (2017),Crime|Drama,3.7919642857142857,560
+79,130.0,Sausage Party,2016,160,89,sausageparty,158872,Sausage Party (2016),Animation|Comedy,2.815405968077724,1441
+80,131.0,Assassination Nation,2018,160,108,assassinationnation,193445,Assassination Nation (2018),Thriller,3.1,45
+81,132.0,Sorry to Bother You,2018,160,112,sorrytobotheryou,188189,Sorry to Bother You (2018),Comedy|Fantasy|Sci-Fi,3.694125159642401,783
+82,133.0,Platoon,1986,159,120,platoon,1090,Platoon (1986),Drama|War,3.9036080019052157,16796
+83,134.0,Snatch,2000,159,102,snatch,4011,Snatch (2000),Comedy|Crime|Thriller,4.063324170351779,25101
+84,135.0,The Heat,2013,158,117,theheat,172679,The Heat (2006),Comedy|Romance,2.34375,16
+85,136.0,Blue Collar,1978,158,114,bluecollar,3304,Blue Collar (1978),Crime|Drama,3.686119873817035,317
+86,137.0,Colors,1988,157,120,colors,4488,Colors (1988),Action|Crime|Drama,3.345524542829644,1039
+87,138.0,Dead Presidents,1995,157,119,deadpresidents,42,Dead Presidents (1995),Action|Crime|Drama,3.0495652173913044,2300
+88,140.0,Magic Mike,2012,156,110,magicmike,95449,Magic Mike (2012),Drama|Romance,3.0399753997539976,813
+89,141.0,That's My Boy,2012,156,114,thatsmyboy,96616,That's My Boy (2012),Comedy,2.6378865979381443,388
+90,142.0,Intermission,2003,155,102,intermission,7364,Intermission (2003),Comedy|Crime|Drama,3.448905109489051,411
+91,147.0,Funny People,2009,154,146,funnypeople,66509,Funny People (2009),Comedy|Drama,3.0911906400550584,1453
+92,148.0,Good Will Hunting,1997,154,126,goodwillhunting,1704,Good Will Hunting (1997),Drama|Romance,4.074935168305646,38947
+93,150.0,Bad Boys II,2003,153,147,badboysii,6548,Bad Boys II (2003),Action|Comedy|Crime|Thriller,3.1376795332136447,4456
+94,151.0,Boiler Room,2000,153,120,boilerroom,3298,Boiler Room (2000),Crime|Drama|Thriller,3.49023694602896,4558
+95,152.0,All About the Benjamins,2002,151,98,allaboutthebenjamins,5170,All About the Benjamins (2002),Action|Comedy|Crime,2.631455399061033,213
+96,156.0,Soul Men,2008,151,100,soulmen,63481,Soul Men (2008),Comedy|Musical,2.973684210526316,57
+97,158.0,American Honey,2016,150,163,americanhoney,162738,American Honey (2016),Comedy|Drama,3.644,250
+98,159.0,Clerks II,2006,150,97,clerksii,45728,Clerks II (2006),Comedy,3.515359297860669,3646
+99,160.0,Hoffa,1992,150,140,hoffa,6997,Hoffa (1992),Crime|Drama,3.192941176470588,425
+100,162.0,Patriots Day,2016,150,133,patriotsday,167544,Patriots Day (2016),Drama|Thriller,3.605121293800539,371
+101,164.0,War Dogs,2016,150,114,wardogs,161131,War Dogs (2016),Comedy,3.613125453226976,1379
+102,13.0,State Property,2002,321,88,stateproperty,5138,State Property (2002),Action|Crime|Drama,1.7916666666666667,12
+103,35.0,State Property 2,2005,271,94,stateproperty,33132,State Property 2 (2005),Action|Crime|Drama,1.5555555555555556,9
+104,16.0,Running Scared,2006,315,122,runningscared,43921,Running Scared (2006),Action|Crime|Thriller,3.480940279542567,787
+105,17.0,Sweet Sixteen,2002,313,106,sweetsixteen,6898,Sweet Sixteen (2002),Drama,3.5721311475409836,305
+106,31.0,Dirty,2005,280,97,dirty,105492,Dirty (2005),Crime|Drama|Thriller,2.6333333333333333,15
+107,34.0,Bully,2001,274,114,bully,4450,Bully (2001),Crime|Drama|Thriller,3.433333333333333,900
+108,45.0,Empire,2002,236,90,empire,5901,Empire (2002),Crime|Drama,2.7717391304347827,184
+109,61.0,Black and White,1999,215,98,blackandwhite,3509,Black and White (1999),Drama,2.8372093023255816,387
+110,64.0,Hot Tub Time Machine,2010,212,99,hottubtimemachine,76077,Hot Tub Time Machine (2010),Comedy|Sci-Fi,3.105145797598628,2915
+111,68.0,Scarface,1983,207,170,scarface,4262,Scarface (1983),Action|Crime|Drama,3.9373825503355704,14900
+112,70.0,8 Mile,2002,200,110,mile,5810,8 Mile (2002),Drama,3.2938172043010754,7440
+113,71.0,22 Jump Street,2014,200,112,jumpstreet,112138,22 Jump Street (2014),Action|Comedy|Crime,3.4989462592202316,3796
+114,75.0,Skin,2019,200,110,skin,204496,Skin (2019),Drama,3.0,10
+115,79.0,Sabotage,2014,196,109,sabotage,109072,Sabotage (2014),Action|Crime|Drama,2.717821782178218,202
+116,83.0,Overnight,2003,191,82,overnight,31539,Overnight (2003),Documentary,3.383720930232558,86
+117,86.0,Monster,2003,187,109,monster,7160,Monster (2003),Crime|Drama,3.610570236439499,4314
+118,91.0,The Wall,2017,185,88,thewall,171049,The Wall (2017),Drama|Thriller,3.156716417910448,67
+119,92.0,Bad Santa 2,2016,180,92,badsanta,165645,Bad Santa 2 (2016),Comedy,2.6923076923076925,117
+120,103.0,Bad Santa,2003,173,91,badsanta,6957,Bad Santa (2003),Comedy|Crime,3.3326864147088866,4895
+121,94.0,Flawless,1999,178,112,flawless,3115,Flawless (1999),Drama,3.2022292993630574,628
+122,96.0,Slam,1998,176,100,slam,2305,Slam (1998),Drama,3.6218905472636815,201
+123,97.0,Superbad,2007,176,113,superbad,54503,Superbad (2007),Comedy,3.7347471953281084,13014
+124,101.0,Project X,2012,175,88,projectx,93270,Project X (2012),Comedy,3.149047619047619,1050
+125,108.0,Backstage,2000,170,86,backstage,3890,Back Stage (2000),Documentary,1.875,8
+126,143.0,Legend,2015,155,131,legend,141688,Legend (2015),Crime|Thriller,3.4454941860465116,688
+127,146.0,Contraband,2012,154,111,contraband,91842,Contraband (2012),Action|Crime|Drama|Thriller,3.2475728155339807,618
+128,149.0,Notorious,2009,154,123,notorious,65810,Notorious (2009),Drama|Musical,3.223809523809524,210
+129,153.0,Ash Wednesday,2002,151,99,ashwednesday,6651,Ash Wednesday (2002),Crime|Drama,2.5166666666666666,60
+130,154.0,In the Name of the Father,1993,151,133,inthenameofthefather,475,In the Name of the Father (1993),Drama,3.9152097902097904,8580
+131,165.0,The Night Before,2015,150,101,thenightbefore,142422,The Night Before (2015),Comedy,3.1950819672131145,305
